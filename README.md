@@ -9,6 +9,7 @@
 ![angular][ANGULAR__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![javascript][JAVASCRIPT__BADGE]
+![html5][HTML5__BADGE]
 
 <p align="center">
     <img src=".github/landing-page.png" alt="Page Layout" width="400px">
