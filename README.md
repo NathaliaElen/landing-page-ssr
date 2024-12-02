@@ -11,11 +11,5 @@
 ![javascript][JAVASCRIPT__BADGE]
 
 <p align="center">
- <a href="#about">About</a> • 
- <a href="#started">Getting Started</a> • 
- <a href="#contribute">Contribute</a>
-</p>
-
-<p align="center">
     <img src=".github/landing-page.png" alt="Page Layout" width="400px">
 </p>
